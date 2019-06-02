@@ -1,0 +1,19 @@
+const cartModel = {
+        customerId:null,
+        cartProductId:null,
+        subcategoryId:null,
+        subcategoryName:null,
+        amount:null,
+        suffix:null,
+        quantity:null,
+        costprice:null,
+        sellprice:null,
+        subTotal:null,
+        subproductId:null,
+        subproductName:null,
+        imageUrl:{
+            uri:null,
+            key:null
+    }
+}
+module.exports=cartModel;
