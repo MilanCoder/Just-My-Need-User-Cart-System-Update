@@ -28,6 +28,12 @@ or
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+## Cart System
+The cart system allows user to add the non-exhausted grocery items to their cart who are logged in to our system as customer.
+The cart shows the added items with their quantity , indivisual price and the total price to pay. 
+If any item is exhausted then the item is removed from the cart along with the pop-up to inform the customer.
+
+
 ## Documentation
 
 For more information about using Node.js on Heroku, see these Dev Center articles:
